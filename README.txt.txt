@@ -1,0 +1,1 @@
+Following GitHub's Hello World tutorial, utilizing the desktop GUI.
